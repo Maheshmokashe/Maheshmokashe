@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dynamic Software Developer with over 3.6 years of experience in<br>designing, developing, and deploying innovative data-driven applications<br>and automation solutions. Expertise includes Python, backend<br>development, API integration, data processing, and scalable system<br>design, ensuring robust and efficient software delivery. Proven track<br>record in building high-performance Scrapy pipelines, analyzing<br>complex web data structures, optimizing code efficiency, and<br>implementing CI/CD workflows. Recognized for strong problem-solving<br>abilities, debugging skills, and a commitment to delivering reliable,<br>production-ready software.
+Dynamic Software Developer with over 3.8 years of experience in<br>designing, developing, and deploying innovative data-driven applications<br>and automation solutions. Expertise includes Python, backend<br>development, API integration, data processing, and scalable system<br>design, ensuring robust and efficient software delivery. Proven track<br>record in building high-performance Scrapy pipelines, analyzing<br>complex web data structures, optimizing code efficiency, and<br>implementing CI/CD workflows. Recognized for strong problem-solving<br>abilities, debugging skills, and a commitment to delivering reliable,<br>production-ready software.
 
 
 ## 🌐 Socials:
